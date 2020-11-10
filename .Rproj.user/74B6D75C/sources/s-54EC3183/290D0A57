@@ -1,0 +1,24 @@
+{
+    "id": "290D0A57",
+    "path": "~/R/Scripts/Simulation.R",
+    "project_path": "Scripts/Simulation.R",
+    "type": "r_source",
+    "hash": "163237605",
+    "contents": "",
+    "dirty": true,
+    "created": 1605000353898.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "11,12",
+        "scrollLine": "3"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1604980761,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1605000493823,
+    "read_only": false,
+    "read_only_alternatives": []
+}
